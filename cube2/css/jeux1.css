@@ -1,5 +1,8 @@
 body{
-    background-image: url('https://i.pinimg.com/474x/60/ac/f4/60acf4fb6bc5721d8eccf2ef1dee67a4.jpg');
+    background: #1abc9c;
+    background-image: linear-gradient(to top left, #9b59b6, #1abc9c);
+    min-height: 100vh;
+
 }
 
 h1{
