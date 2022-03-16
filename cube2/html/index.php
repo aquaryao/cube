@@ -21,14 +21,14 @@
             <div id="liste">
                 <div>
                     <a href="jeux/jeux1.php">
-                        <h3>Titre 3</h3>
-                        <p>Texte Texte Texte Texte Texte</p>
+                        <h3>Démichateur</h3>
+                        <p>Le but du jeu est de découvrir la bombe, c'est-à-dire en cliquer sur la case qui la dissimulent.</p>
                     </a>
                 </div>
                 <div>
                     <a href="jeux/jeux2.php">
-                        <h3>Titre 3</h3>
-                        <p>Texte Texte Texte Texte Texte</p>
+                        <h3>Memory</h3>
+                        <p>Jeux du memory avec plusieurs thème comme Pokemon, Star War ou Pixar.</p>
                     </a>
                 </div>
                 <div>

@@ -53,11 +53,9 @@
       <div id="themes">
         <h2>Choose your theme</h2>
         <p id="pokemon" class="themes" title="Pokemon">Pokemon</p>
-        <p id="starwars" class="themes" title="Star Wars">Star Wars</p>
+        <p id="genshin" class="themes" title="genshin">Genshin Impact</p>
         <p id="lotr" class="themes" title="Lord of the Ring">Lord of the Ring</p>
         <p id="disney" class="themes" title="Disney">Disney</p>
-        <p id="pixar" class="themes" title="Pixar">Pixar</p>
-        <p id="harrypotter" class="themes" title="Harry Potter">Harry Potter</p>
       </div>
     </section>
 
