@@ -19,7 +19,6 @@
     width: 100%;
     display: flex;
     align-items: center;
-    
 }
 
 .header-bloc-gauche p{
@@ -42,7 +41,7 @@ a{
 body{
     margin: 0px;
     background: #1abc9c;
-    background-image: linear-gradient(to top left, #9b59b6, #00775f);
+    background-image: linear-gradient(to top, #9b59b6, #00775f);
     min-height: 100vh;
 
 }
@@ -51,7 +50,7 @@ header{
     font-weight: inherit;
     font-size: 20px;
     font-family: sans-serif;
-    background: azure;
+    background: #1abc9c;
     background-image: linear-gradient(to bottom , #1abc9c, #00775f);
     display: flex;
 }
