@@ -201,3 +201,5 @@ var library = {
     timeElt.textContent = time;
     scoreElt.textContent = score;
   }
+
+  reset();

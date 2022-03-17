@@ -40,18 +40,18 @@ a{
 
 body{
     margin: 0px;
-    background: #1abc9c;
-    background-image: linear-gradient(to top, #9b59b6, #00775f);
+    background: #d38585;
+    background-image: linear-gradient(to top, #9b59b6, #d38585);
     min-height: 100vh;
 
-}
+}s
 
 header{
     font-weight: inherit;
     font-size: 20px;
     font-family: sans-serif;
-    background: #1abc9c;
-    background-image: linear-gradient(to bottom , #1abc9c, #00775f);
+    background: aqua;
+
     display: flex;
 }
 

@@ -37,7 +37,7 @@
                         <p>Texte Texte Texte Texte Texte</p>
                     </a>
                 </div>
-                <div>
+                <div id=jeux4>
                     <a href="jeux/jeux4.php">
                         <h3>Titre 3</h3>
                         <p>Texte Texte Texte Texte Texte</p>

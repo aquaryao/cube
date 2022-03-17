@@ -10,7 +10,7 @@
 }
 
 #liste > div {
-    background-color: brown;
+    background-color: aquamarine;
     height: 150px;
     width: 150px;
     padding: 2%;
@@ -43,5 +43,9 @@ section{
 }
 #jeux2{
     background: url('https://i.pinimg.com/564x/bd/77/47/bd77471c66c7979f9886f135f1fd1d2e.jpg') no-repeat center;
+    object-fit: cover;
+}
+#jeux4{
+    background: url('https://i.pinimg.com/564x/6c/74/14/6c7414df16e95a2288791e8fd1fb5b79.jpg') no-repeat center;
     object-fit: cover;
 }

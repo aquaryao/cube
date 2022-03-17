@@ -9,8 +9,8 @@
     justify-content: space-between;
     align-items: center;
     min-height: 100vh;
-    background: #1abc9c;
-    background-image: linear-gradient(to top left, #9b59b6, #1abc9c);
+    background: #d38585;
+    background-image: linear-gradient(to top, #9b59b6, #d38585);
     font-family: arial;
     position: relative;
     text-align: center;
@@ -56,7 +56,7 @@
     }
   }
   .box {
-    background: #6186aa;
+    background: #d38585;
     width: 50px;
     height: 50px;
     float: left;
@@ -79,11 +79,11 @@
   }
   .box .outlined {
     border: solid 1px #34495e;
-    background: #1abc9c;
+    background: #c59ad6;
     opacity: 0.7;
   }
   #state {
-    background: #6186aa;
+    background: #c59ad6;
     background-size: 250%;
     width: 230px;
     line-height: 25px;
@@ -154,19 +154,19 @@
     padding: 20px;
     width: 300px;
     background: white;
-    color: #6186aa;
+    color: #9b58b6;
   } 
   #themes p {
     margin-top: 10px;
     padding: 10px 20px;
     border: solid 1px;
     background: white;
-    color: #6186aa;
+    color: #9b58b6;
     cursor: pointer;
     font-size: 16px;
   } 
   #themes p:hover {
-    background: #6186aa;
+    background: #c59ad6;
     background-size: 250%;
     color: white;
   } 
@@ -193,7 +193,7 @@
     width: 300px;
     padding: 20px 0 40px;
     background: white;
-    color: #6186aa;
+    color: #9b58b6;
   }
   #post p:first-child, 
   #post #final {
@@ -203,7 +203,7 @@
     padding: 10px 20px;
   }
   #post #again {
-    color: #6186aa;
+    color: #9b58b6;
     text-decoration: none;
     margin: auto;
     padding: 10px 20px;
@@ -211,7 +211,7 @@
     border: solid 1px;
   }
   #post #again:hover {
-    background: #6186aa;
+    background: #9b58b6;
     background-size: 250%;
     color: white;
     cursor: pointer;
