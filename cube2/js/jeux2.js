@@ -173,7 +173,7 @@ var library = {
           // game won
           if (win === 20) {
             clearInterval(timer);
-            finalElt.innerHTML = "You won " + score + " points <br> in " + time + " seconds";
+            finalElt.innerHTML = "Tu à gagner " + score + " points <br> en " + time + " seconds";
             postElt.classList.remove("hidden");
           }
         }

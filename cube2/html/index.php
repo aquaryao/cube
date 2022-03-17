@@ -19,13 +19,13 @@
         <section id="liste-jeux">
             <h2>Tous nos jeux</h2>
             <div id="liste">
-                <div>
+                <div id=jeux1>
                     <a href="jeux/jeux1.php">
                         <h3>Démichateur</h3>
                         <p>Le but du jeu est de découvrir la bombe, c'est-à-dire en cliquer sur la case qui la dissimulent.</p>
                     </a>
                 </div>
-                <div>
+                <div id=jeux2>
                     <a href="jeux/jeux2.php">
                         <h3>Memory</h3>
                         <p>Jeux du memory avec plusieurs thème comme Pokemon, Star War ou Pixar.</p>

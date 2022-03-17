@@ -51,10 +51,10 @@
 
     <section id="pre" class="">
       <div id="themes">
-        <h2>Choose your theme</h2>
+        <h2>Choisie ton thème</h2>
         <p id="pokemon" class="themes" title="Pokemon">Pokemon</p>
         <p id="genshin" class="themes" title="genshin">Genshin Impact</p>
-        <p id="lotr" class="themes" title="Lord of the Ring">Lord of the Ring</p>
+        <p id="lotr" class="themes" title="Lord of the Ring">Le seigneur des anneaux</p>
         <p id="disney" class="themes" title="Disney">Disney</p>
       </div>
     </section>
@@ -65,7 +65,7 @@
         <p id="final"></p>
         <br />
         <p>
-          <a id="again">Play Again !</a>
+          <a id="again">Rejouer !</a>
         </p>
       </div>
     </section>

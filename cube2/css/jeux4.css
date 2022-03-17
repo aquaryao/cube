@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+    font-size: 2em;
+
+  }
+  #score {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 1em;
+    background-color: black;
+    color: yellow;
+  }
+  
+  .board {
+      display: flex;
+      flex-flow: column nowrap;
+      gap: 1px;
+      align-items: stretch;
+      max-width: 800px;
+      margin: auto;
+  }
+  
+  .row {
+      display: flex;
+      gap: 1px;
+      flex-flow: row nowrap;
+      justify-content: center;
+    align-items: center;
+  }
+  
+  .tile {
+      width: 40px;
+      height: 40px;
+      background-color: grey;
+      display: flex;
+      justify-content: center;
+    align-items: center;
+  }
+  .tile.water {
+     background-color: navy;
+  }
+  .tile.ship {
+     background-color: red;
+  }
+  
+  #tries {
+    color: red;
+    text-align: center;
+  }
+  
+  .tile.name {
+    background: transparent;
+    color: red;
+    text-align: center;
+  }
+  
+  .tile.red {
+    background-color: red;
+  }
+  
+  .tile.aqua {
+    background-color: aqua;
+  }
+  .tile.fuchsia {
+    background-color: fuchsia;
+  }
+  .tile.orange {
+    background-color: orange;
+  }
+  .tile.navy {
+    background-color: navy;
+  }
+  @media (max-width: 480px) {
+      .tile {
+          width: 20px;
+          height: 20px;
+      }
+  }
