@@ -21,14 +21,24 @@
             <div id="liste">
                 <div id=jeux1>
                     <a href="jeux/jeux1.php">
+                    <div>
+                        <div class="phototeam" id="demichateur">
+                            <div class="effet">Le but du jeu est de découvrir la bombe, c'est-à-dire en cliquer sur la case qui la dissimulent.</div>
+                        </div>
+                    </div>
                         <h3>Démichateur</h3>
-                        <p>Le but du jeu est de découvrir la bombe, c'est-à-dire en cliquer sur la case qui la dissimulent.</p>
                     </a>
                 </div>
                 <div id=jeux2>
                     <a href="jeux/jeux2.php">
+                    <div>
+                        <div class="phototeam" id="memory">
+                            <div class="effet">Le but du jeu est de découvrir la bombe, c'est-à-dire en cliquer sur la case qui la dissimulent.</div>
+                        </div>
+                    </div>
+                    
                         <h3>Memory</h3>
-                        <p>Jeux du memory avec plusieurs thème comme Pokemon, Star War ou Pixar.</p>
+
                     </a>
                 </div>
                 <div>
@@ -67,12 +77,6 @@
                         <p>Texte Texte Texte Texte Texte</p>
                     </a>
                 </div>
-                <div>
-                    <a href="jeux/jeux9.php">
-                        <h3>Titre 3</h3>
-                        <p>Texte Texte Texte Texte Texte</p>
-                    </a>
-                </div>
             </div>
         </section>
     <main>
@@ -81,3 +85,6 @@
     <script src="../js/carroussel.js"></script>
 </body>
 </html>
+
+
+                            
