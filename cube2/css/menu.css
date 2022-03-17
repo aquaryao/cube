@@ -48,18 +48,23 @@ body{
 
 header{
     font-weight: inherit;
-    font-size: 20px;
+    font-size: 32px;
+    padding: 10px;
     font-family: sans-serif;
-    background: aqua;
-
+    background: aqua;  
     display: flex;
 }
-
-header{
+header{ 
     display: flex;
-    position: relative;
-    z-index: 1;
-}
+    position: relative; 
+    z-index: 1; }
+header {
+    color: white;
+    letter-spacing: 10px;
+    font-size: 32px;
+    padding: 10px 5px;
+  } 
+
 
 header img{
     display: block;
