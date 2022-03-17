@@ -49,10 +49,18 @@
                 </div>
                 <div id=jeux4>
                     <a href="jeux/jeux4.php">
-                        <h3>Titre 3</h3>
-                        <p>Texte Texte Texte Texte Texte</p>
+                    <div>
+                        <div class="phototeam" id="memory">
+                            <div class="effet">
+                               Tetris met le joueur au défi de réaliser des lignes complètes en déplaçant des pièces de formes différentes.
+                            </div>
+                        </div>
+                    </div>
+                        <h3>Tetris</h3>
+
                     </a>
                 </div>
+                
                 <div>
                     <a href="jeux/jeux5.php">
                         <h3>Titre 3</h3>
