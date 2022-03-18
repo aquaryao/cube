@@ -3,7 +3,7 @@
         session_start();
     }
     function connect(){
-        $db = new PDO('mysql:host=localhost;dbname=cube2;charset=utf8','root','root');
+        $db = new PDO('mysql:host=localhost;dbname=cube-2;charset=utf8','root','' );
         return $db;
     }
 
